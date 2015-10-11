@@ -1,2 +1,2 @@
 # TestGitHub
-My first GitHub
+Just my first foot on learning Git. No serious shitt...!
